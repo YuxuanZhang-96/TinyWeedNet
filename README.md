@@ -1,3 +1,3 @@
 # TinyWeedNet
-open source code for TinyWeedNet
-To be updated
+open source code for TinyWeedNet.
+To be updated...
